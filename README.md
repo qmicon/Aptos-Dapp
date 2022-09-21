@@ -1,6 +1,6 @@
 # First Try on Aptos Dapp
 
-Followed the tutorial, raised a pull request to the tutorial doc with some changes in the outdated intructions
+Followed the aptos dev tutorial and created this dapp, raised a pull request to the official aptos tutorial repo with some changes in the outdated intructions
 
 PR link: https://github.com/aptos-labs/aptos-core/pull/4415
 
