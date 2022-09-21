@@ -11,6 +11,9 @@
 # production
 /build
 
+# Aptos CLI files
+.aptos
+
 # misc
 .DS_Store
 .env.local

@@ -1,3 +1,9 @@
+# First Try on Aptos Dapp
+
+Followed the tutorial, raised a pull request to the tutorial doc with some changes in the outdated intructions
+
+PR link: https://github.com/aptos-labs/aptos-core/pull/4415
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
